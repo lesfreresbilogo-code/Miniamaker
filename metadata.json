@@ -1,0 +1,5 @@
+{
+  "name": "Miniature à la MrBeast",
+  "description": "An application that automatically generates a MrBeast-style thumbnail from a subject image and a title using AI.",
+  "requestFramePermissions": []
+}
